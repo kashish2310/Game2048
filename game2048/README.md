@@ -4,7 +4,7 @@ A fully functional implementation of the popular 2048 game with a modern GUI, bu
 
 ## 🎮 Live Demo
 
-[Play the game here](#) *(Add your deployed link)*
+[Play the game here](#) *(https://kashish2310.github.io/Game2048)*
 
 ## Features
 
