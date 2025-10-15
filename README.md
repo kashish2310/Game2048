@@ -26,7 +26,7 @@ A fully functional implementation of the popular 2048 game with a modern GUI, bu
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/2048-game.git
+git clone https://github.com/kashish2310/Game2048.git
 cd 2048-game
 ```
 
@@ -37,7 +37,7 @@ npm install
 
 3. **Start development server**
 ```bash
-npm start
+npm run dev
 ```
 
 4. **Open in browser**
@@ -123,10 +123,10 @@ React hooks are used for state management:
 ## Project Structure
 
 ```
-2048-game/
+game2048/
 ├── src/
-│   ├── App.js              # Main game component
-│   ├── index.js            # Entry point
+│   ├── App.jsx              # Main game component
+│   ├── main.jsx            # Entry point
 │   └── index.css           # Global styles
 ├── public/
 │   └── index.html          # HTML template
