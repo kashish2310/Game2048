@@ -27,7 +27,7 @@ A fully functional implementation of the popular 2048 game with a modern GUI, bu
 1. **Clone the repository**
 ```bash
 git clone https://github.com/kashish2310/Game2048.git
-cd 2048-game
+cd game2048
 ```
 
 2. **Install dependencies**
